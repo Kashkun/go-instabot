@@ -1,15 +1,15 @@
 {
     "user" : {
         "instagram" : {
-            "username" : "foobar",         
-            "password" : "fooBAR"          
+            "username" : "allblack_8",         
+            "password" : "Mihjul234"          
         },
         "mail" : {
-            "from" : "foo@bar.foo",        
-            "password" : "foOb@r",          
-            "to" : "bar@foo.bar",           
-            "smtp" : "smtp.gmail.com:587",  
-            "server" : "smtp.gmail.com"     
+            "from" : "",        
+            "password" : "",          
+            "to" : "",           
+            "smtp" : "",  
+            "server" : ""     
         }
     },
     "limits" : {     
